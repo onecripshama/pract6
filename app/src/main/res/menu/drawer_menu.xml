@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_vaz2114"
+        android:title="@string/vaz2114" />
+    <item
+        android:id="@+id/nav_bmw_m5_f90"
+        android:title="@string/bmw_m5_f90" />
+    <item
+        android:id="@+id/nav_mb_c63"
+        android:title="@string/mb_c63" />
+
+    <item
+        android:id="@+id/nav_audi_rs6"
+        android:title="@string/audi_rs6" />
+
+    <item
+        android:id="@+id/nav_skoda_octavia"
+        android:title="@string/skoda_octavia" />
+
+    <item
+        android:id="@+id/nav_next_activity"
+        android:title="@string/next_activity" />
+</menu>

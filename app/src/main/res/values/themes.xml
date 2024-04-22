@@ -1,0 +1,15 @@
+<resources>
+    <!-- Базовый стиль приложения -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Настройки темы здесь -->
+    </style>
+
+    <!-- Стиль для вашей SecondActivity -->
+    <style name="SecondActivityTheme" parent="AppTheme">
+        <item name="colorPrimary">#FF0000</item> <!-- Цвет вашего приложения -->
+        <item name="colorPrimaryDark">#800000</item> <!-- Темный цвет вашего приложения -->
+        <item name="colorAccent">#FFFF00</item> <!-- Цвет акцента -->
+    </style>
+    <style name="Theme.Pract6" parent="Base.Theme.Pract6" />
+</resources>
+

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pract6</string>
+    <string name="home">Главная</string>
+    <string name="notifications">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="drawer_open">aaaa</string>
+    <string name="drawer_close">bbbbb</string>
+    <string name="vaz2114">ВАЗ 2114</string>
+    <string name="bmw_m5_f90">BMW M5 F90</string>
+    <string name="mb_c63">Mercedes-Benz C63</string>
+    <string name="audi_rs6">Audi RS6</string>
+    <string name="skoda_octavia">Skoda Octavia</string>
+    <string name="next_activity">Следующая активность</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
